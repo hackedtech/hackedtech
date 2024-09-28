@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tausif</h1>
 <h3 align="center">code runs in my blood</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hackedtech" alt="hackedtech" /></a> </p>
-
 - 🔭 I’m currently working on [python](https://github.com/hackedtech/python)
 
 - 🌱 I’m currently learning **python**
