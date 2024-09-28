@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tausif</h1>
-<h3 align="center">![Badge](https://img.shields.io/badge/Status-Active-brightgreen)
- Code runs in my blood</h3>
+<h3 align="center">Code runs in my blood</h3>
 
 - 🔭 I’m currently working on [python](https://github.com/hackedtech/python)
 
